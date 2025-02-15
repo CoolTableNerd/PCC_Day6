@@ -1,4 +1,4 @@
-### Python User Input & While Loops (Chapter 7)**  
+### **Python User Input & While Loops (Chapter 7)**  
 ---
 
 #### **Summary**  
