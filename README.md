@@ -151,5 +151,5 @@ Results:
 
 --- 
 
-##Blog Post <br/>
+## Blog Post
 [Becoming Loopy](https://medium.com/@CoolTableNerd/becoming-loopy-b21dec6d0192)
