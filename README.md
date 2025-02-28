@@ -150,3 +150,6 @@ Results:
 7. Why might you use a dictionary instead of a list to store poll responses?  
 
 --- 
+
+##Blog Post
+[Becoming Loopy](https://medium.com/@CoolTableNerd/becoming-loopy-b21dec6d0192)
